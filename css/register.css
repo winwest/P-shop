@@ -1,0 +1,155 @@
+.w {
+    width: 1200px;
+    margin: auto;
+}
+
+.header {
+    height: 82px;
+    border-bottom: 1px solid #c81623;
+}
+
+.logo img {
+    width: 80px;
+    height: 80px;
+}
+
+.logo {
+    padding-top: 5px;
+}
+
+.register-area {
+    height: 520px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.register-area h3 {
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    line-height: 40px;
+    padding: 0 10px;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.register-area h3 em {
+    float: right;
+    font-size: 14px;
+}
+
+.register-area a {
+    color: #c81623;
+}
+
+.reg-form {
+    width: 600px;
+    height: 400px;
+    margin: 40px auto 0;
+}
+
+.reg-form label {
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+}
+
+.inp {
+    width: 238px;
+    height: 24px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    padding: 0 5px;
+    color: rgb(179, 172, 172);
+}
+
+.reg-form li {
+    margin-bottom: 15px;
+}
+
+.error {
+    color: #df3033;
+    margin-left: 10px;
+}
+
+.error-icon,
+.success-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-top: -2px;
+    /* background: url() no-repeat; */
+}
+
+
+/* .success-icon {
+    background: url();
+} */
+
+.success {
+    color: #40b83f;
+    margin-left: 10px;
+}
+
+.safe {
+    padding-left: 187px;
+    color: #b2b2b2;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: white;
+}
+
+.ruo {
+    background-color: #de1111;
+}
+
+.zhong {
+    background-color: #40b83f;
+}
+
+.qiang {
+    background-color: #f79100;
+}
+
+.agree {
+    padding-top: 5px;
+    padding-left: 130px;
+}
+
+.agree input {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.agree a {
+    color: #15739ee6;
+}
+
+.over {
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    border: 0;
+    color: white;
+    font-size: 14px;
+    margin: 20px 130px;
+}
+
+.footer {
+    height: 120px;
+    text-align: center;
+}
+
+.link {
+    margin-top: 20px;
+    height: 30px;
+}
+
+.copyright {
+    line-height: 20px;
+}
